@@ -1,0 +1,33 @@
+.image{
+    background-image: url("vec.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100% ;
+    width:100% ;
+    color: azure;
+    padding-bottom: 4%;
+
+}
+.text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: azure;
+}
+
+.form{
+    margin: 0 auto;
+    border: 1px solid black;
+    box-shadow: white 2px 2px 7px 4px;
+    width: 50%;
+}
+
+.input{
+    text-align: center;
+    outline:corner;
+}
+.input:hover{
+    box-shadow: black 4px 2px 1px 1px;
+}
+.select{
+    width: 40%;
+}
